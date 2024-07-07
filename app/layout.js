@@ -12,7 +12,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ko">
       <head>
-
+      <meta name="google-site-verification" content="ohrGnA7RsHT30X375ixKOmz7HJIZHM3ZBCPU3Y2ootg" />
+      <meta name="naver-site-verification" content="c683e5352a3b6b828107057ea5e1f2d76596ba3c" />
       </head>
       <body>
         <header>
