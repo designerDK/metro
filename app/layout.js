@@ -1,4 +1,7 @@
 import "./globals.css";
+import Script from 'next/script';
+
+const GA_Measurement_ID = process.env.NEXT_PUBLIC_MEASUREMENT_ID;
 
 export const metadata = {
   title: "서울 지하철역 이름 뜻과 유래",
@@ -21,6 +24,8 @@ export default function RootLayout({ children }) {
       <meta property="og:description" 
       content="서울 지하철역들의 유래와 각 역명의 의미를 검색해 볼 수 있는 사이트입니다."></meta>
       <meta property="og:image" content="/ogimage.png"></meta>
+
+      <meta name="google-adsense-account" content="ca-pub-2654234461039881"></meta>
       </head>
       <body>
         <header>
