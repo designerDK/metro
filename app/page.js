@@ -104,7 +104,6 @@ export default function Home() {
               <div className="search-mean-title">{searchTitle}</div>
               <div className="search-mean-content">{origin}</div>
             </div>
-            <div className="ad"></div>
           </div>
         </div>
       </section>

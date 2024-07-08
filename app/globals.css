@@ -210,11 +210,7 @@ main{
     border-radius: 8px;
     line-height: 140%;
 }
-.ad{
-    width: 728px;
-    height: 90px;
-    background-color: rgb(173, 173, 173);
-}
+
 .divider{
     border-bottom: 1px solid rgb(182, 182, 182);
     width: 1288px;
@@ -315,10 +311,7 @@ footer img{
         height: 345px;
         width: 345px;
     }
-    .ad{
-        width: 320px;
-        height: 100px;
-    }
+
     .divider{
         width: 936px;
     }
