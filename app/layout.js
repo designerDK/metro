@@ -16,13 +16,6 @@ export default function RootLayout({ children }) {
       <meta name="naver-site-verification" content="c683e5352a3b6b828107057ea5e1f2d76596ba3c" />
 
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HQ7PVQH4J"></script>
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments)}
-      gtag('js', new Date());
-
-      gtag('config', 'G-4HQ7PVQH4J');
-      </script>
 
       <meta property="og:title" content="서울 지하철역 이름 뜻과 유래"></meta>
       <meta property="og:description" 
