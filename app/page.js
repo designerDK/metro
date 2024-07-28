@@ -109,7 +109,7 @@ export default function Home() {
       </section>
 
       <div className="divider"></div>
-      <ins class="kakao_ad_area" style="display:none;"
+      <ins class="kakao_ad_area"
       data-ad-unit = "DAN-yhIQZ5JxCeh8ffyS"
       data-ad-width = "320"
       data-ad-height = "50"></ins>
